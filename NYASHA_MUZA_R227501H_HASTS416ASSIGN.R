@@ -1,7 +1,7 @@
 # ============================================================
 # HASTS 416 – Tutorial 1 in R
 # Complete R Solutions: A1, A2, A3
-# GEORGE MANGOMBE R227511E HACS
+# NYASHA MUZA R227501H HACS
 # ============================================================
 
 # ---- Check and load required packages ----
